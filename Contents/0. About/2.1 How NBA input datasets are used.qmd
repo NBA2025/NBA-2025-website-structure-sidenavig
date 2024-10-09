@@ -1,9 +1,5 @@
 ---
 title: "How the NBA input datasets are used"
-crossref:
-  fig-title: '**Figure**' 
-  fig-labels: arabic
-  title-delim: "**.**"
 ---
 
 ------------------------------------------------------------------------

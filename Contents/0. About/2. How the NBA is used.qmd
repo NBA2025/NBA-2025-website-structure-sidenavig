@@ -1,9 +1,5 @@
 ---
 title: "How the NBA is used"
-crossref:
-  fig-title: '**Figure**' 
-  fig-labels: arabic
-  title-delim: "**.**"
 ---
 
 ------------------------------------------------------------------------

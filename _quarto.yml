@@ -29,11 +29,8 @@ website:
         href: "mailto:a.skowno@sanbi.org.za; c.poole@sanbi.org.za"
 
     contents:
-      #- text: "Home"
-      #  href: Home.qmd
-
-      - text: "Introduction" 
-        href: Introduction.qmd
+      - text: "NBA resources" 
+        href: NBA resources.qmd
 
       - section: "About the NBA"
         href: index.qmd
@@ -231,8 +228,8 @@ format:
       light: cosmo
     grid:
       sidebar-width: 350px
-      body-width: 1000px
-      margin-width: 350px
+      body-width: 1200px
+      margin-width: 400px
         
 crossref:
   fig-title: '**Figure**'
