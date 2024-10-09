@@ -1,9 +1,0 @@
----
-title: "Red List of Ecosystems"
-date: last-modified
-date-format: "DD-MM-YYYY"
----
-
-------------------------------------------------------------------------
-
-# Red List of Ecosystems

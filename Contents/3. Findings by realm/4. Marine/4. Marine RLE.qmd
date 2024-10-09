@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem indicators"
+title: "Red List of Ecosystems"
 sidebar: true
 ---
 
@@ -9,8 +9,6 @@ sidebar: true
 
 add text
 
-## Red List Index of Ecosystems
+## Red List of Ecosystems
 
-Trends in ecosystem threat status
-
-## Protection Level
+add text

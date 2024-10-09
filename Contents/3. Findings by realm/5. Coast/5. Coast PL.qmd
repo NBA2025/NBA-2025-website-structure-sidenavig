@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem indicators"
+title: "Protection Level of Coastal Ecosystems"
 sidebar: true
 ---
 
@@ -9,8 +9,6 @@ sidebar: true
 
 add text
 
-## Red List Index of Ecosystems
+## Protection level
 
-Trends in ecosystem threat status
-
-## Protection Level
+add text

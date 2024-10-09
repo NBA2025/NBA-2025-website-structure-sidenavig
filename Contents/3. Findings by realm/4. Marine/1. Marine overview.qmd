@@ -1,0 +1,52 @@
+---
+title: "Marine realm"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+sidebar: true
+image: "/images/Marine.JPG"  
+---
+
+**Recommended citation:**
+
+------------------------------------------------------------------------
+
+# Overview
+
+add text
+
+# Input data and method for the marine realm
+
+add text
+
+## Ecosystem assessments
+
+add text
+
+## Species assessments
+
+add text
+
+# Key drivers and pressures impacting marine ecosystems
+
+add text
+
+## Habitat loss
+
+add text
+
+## Degradation
+
+add text
+
+## Biological invasions
+
+add text
+
+## Climate change
+
+add text
+
+## Biological resource use
+
+add text

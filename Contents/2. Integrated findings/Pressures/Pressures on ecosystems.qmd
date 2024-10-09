@@ -1,0 +1,34 @@
+---
+title: "Pressures on ecosystems"
+sidebar: true
+---
+
+------------------------------------------------------------------------
+
+# Overview
+
+Changes in hydrological regime and poor water quality are the major pressures on biodiversity in inland aquatic, estuarine, many coastal and selected terrestrial ecosystems. The over-abstraction of water and building of dams (primarily for crops, human settlements and mining) result in direct negative impacts on species and ecosystems, and indirect impacts through the disruption of important ecological processes such as sediment supply. Pollution of inland aquatic ecosystems from a combination of acid mine drainage, mining, industrial and urban waste water, as well as agricultural return flows, negatively impact water quality. When combined with flow regime changes, pollution represents a major additional pressure on inland aquatic, estuarine and coastal biodiversity.
+
+In contrast, the primary pressure in the terrestrial realm is habitat loss as a result of land clearing for croplands, plantation forestry, human settlements and mining. Agriculture, which includes cultivation for crops and plantation forestry, significantly impacts on all the terrestrial and freshwater species groups assessed to date.
+
+## Ecosystem pressures per realm
+
+add text
+
+### Terrestrial realm
+
+add text
+
+### Freshwater (inland aquatic) realm
+
+add text
+
+### Estuarine realm
+
+add text
+
+### Marine realm
+
+add text
+
+### Coast cross-realm

@@ -1,13 +1,16 @@
 ---
 title: "Species indicators"
+sidebar: true
 ---
 
 ------------------------------------------------------------------------
 
-# Red List Index of Species
+# Overview
+
+add text
+
+## Red List Index of Species
 
 Trends in species threat status
 
-# Protection Level
-
-Protection level across realms
+## Species Protection Level

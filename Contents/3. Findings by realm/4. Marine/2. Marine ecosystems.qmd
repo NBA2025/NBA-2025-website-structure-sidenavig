@@ -1,5 +1,5 @@
 ---
-title: "Genetic diversity"
+title: "Ecosystems in the marine realm"
 sidebar: true
 ---
 
@@ -9,10 +9,10 @@ sidebar: true
 
 add text
 
-## Genetic diversity at population level
+## Ecosystems in the marine realm
 
 add text
 
-## Genetic diversity at landscape level
+## Ecosystems around Prince Edward Island
 
 add text

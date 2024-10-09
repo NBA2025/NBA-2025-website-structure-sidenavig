@@ -1,0 +1,54 @@
+---
+title: "Ecological condition of terrestrial ecosystems"
+sidebar: true
+---
+
+------------------------------------------------------------------------
+
+# Overview
+
+add text
+
+## Ecological condition per realm
+
+add text
+
+### Albany Thicket
+
+add text
+
+### Azonal Vegetation
+
+add text
+
+### Desert
+
+add text
+
+### Forests
+
+add text
+
+### Fynbos
+
+add text
+
+### Grassland
+
+add text
+
+### Indian Ocean Coastal Belt
+
+add text
+
+### Nama-Karoo
+
+add text
+
+### Savanna
+
+add text
+
+### Succulent Karoo
+
+add text

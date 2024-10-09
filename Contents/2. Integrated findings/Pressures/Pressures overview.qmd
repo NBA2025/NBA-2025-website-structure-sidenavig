@@ -1,27 +1,28 @@
 ---
 title: "Pressures on South Africa's biodiversity"
+sidebar: true
 ---
 
 ------------------------------------------------------------------------
 
+# Overview
+
 The International Union for the Conservation of Nature (IUCN) proposes a threats classification scheme with a hierarchical structure for various pressures on biodiversity. The NBA 2018 adopted this approach with some minor language adaptations and the resulting pressure plots are used throughout the NBA 2018 reports. The species plots were based on a meta-analysis of species Red List assessments (which document pressures on each species) and the cross-realm plot was informed by the species meta-analysis and expert inputs.
 
-# Climate change
+## Climate change
 
-Climate change and ecosystems synthesis
+add text
 
-# Land cover change
+## Land cover change
 
-NEXUS - Land Transformation  
- 
-# Degradation
+add text
 
-NEXUS - Climate Change, AIP, Land Condition and Biodiversity 
+## Degradation
 
-# Alien invasive species
+add text
 
-Invasive species impacts Synthesis
+## Alien invasive species
 
-# Pesticides
+add text
 
-Pesticide impacts
+## Pesticides

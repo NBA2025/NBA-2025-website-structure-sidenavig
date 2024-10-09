@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem indicators"
+title: "Ecological condition"
 sidebar: true
 ---
 
@@ -9,8 +9,10 @@ sidebar: true
 
 add text
 
-## Red List Index of Ecosystems
+## Rivers
 
-Trends in ecosystem threat status
+Ecological condition of rivers
 
-## Protection Level
+## Wetlands
+
+Ecological condition of wetlands

@@ -7,4 +7,4 @@ sidebar: true
 
 # Overview
 
-This section brings together the findings from components of the NBA 2018 and presents them in an integrated fashion. The headline indicators are compared across realms and taxonomic groups, key pressures that affect all realms are highlighted, and genetic diversity - that applies to all realms and taxonomic groups - is addressed.
+This section brings together the findings from components of the NBA 2018 and presents them in an integrated fashion. The headline indicators are compared across realms and taxonomic groups, key pressures that affect all realms are highlighted, and genetic diversity -- that applies to all realms and taxonomic groups -- is addressed.

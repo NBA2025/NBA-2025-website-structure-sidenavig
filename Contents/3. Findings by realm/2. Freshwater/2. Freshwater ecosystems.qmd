@@ -1,0 +1,22 @@
+---
+title: "Inland aquatic ecosystems"
+sidebar: true
+---
+
+------------------------------------------------------------------------
+
+# Overview
+
+add text
+
+## Rivers
+
+Map ecosystem types - rivers
+
+## Wetlands
+
+Map of ecosystem types - wetlands
+
+## Riparian
+
+Map of ecosystem types - riparian

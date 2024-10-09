@@ -1,0 +1,52 @@
+---
+title: "Terrestrial realm"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+sidebar: true
+image: "/images/Terrestrial.png"  
+---
+
+**Recommended citation:**
+
+------------------------------------------------------------------------
+
+# Overview
+
+add text
+
+# Input data and method for the terrestrial realm
+
+add text
+
+## Ecosystem assessments
+
+add text
+
+## Species assessments
+
+add text
+
+# Key drivers and pressures impacting terrestrial ecosystems
+
+add text
+
+## Habitat loss
+
+add text
+
+## Land degradation
+
+add text
+
+## Biological invasions
+
+add text
+
+## Climate change
+
+add text
+
+## Biological resource use
+
+add text

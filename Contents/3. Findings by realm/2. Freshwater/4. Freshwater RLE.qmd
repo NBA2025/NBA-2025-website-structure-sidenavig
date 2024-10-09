@@ -1,5 +1,5 @@
 ---
-title: "Genetic diversity"
+title: "Freshwater Red List of Ecosystems"
 sidebar: true
 ---
 
@@ -9,10 +9,10 @@ sidebar: true
 
 add text
 
-## Genetic diversity at population level
+## Red List of Ecosystems - rivers
 
 add text
 
-## Genetic diversity at landscape level
+## Red List of Ecosystems - wetlands
 
 add text

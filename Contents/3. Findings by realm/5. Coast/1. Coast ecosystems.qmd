@@ -1,9 +1,0 @@
----
-title: "Ecosystems"
-date: last-modified
-date-format: "DD-MM-YYYY"
----
-
-------------------------------------------------------------------------
-
-# Map of ecosystem types: Coast
