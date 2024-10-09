@@ -16,6 +16,6 @@ listing:
   sort-ui: true
   categories: false
   filter-ui: true
-  page-size: 10     
-page-layout: full
+  #page-size: 10     
+#page-layout: full
 ---

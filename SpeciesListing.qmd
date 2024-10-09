@@ -6,7 +6,7 @@ listing:
     - Contents/4. Species/1. Amphibians/Amphibians.qmd
     - Contents/4. Species/2. Birds/Birds.qmd
     - Contents/4. Species/3. Fish/Fish.qmd 
-    - Contents/4. Species/4. Invertebrates/Overview of invetebrate groups assessed.qmd  
+    - Contents/4. Species/4. Invertebrates/Overview of inveterbrate groups assessed.qmd  
     - Contents/4. Species/5. Mammals/Mammals.qmd
     - Contents/4. Species/6. Plants/Plants.qmd
     - Contents/4. Species/7. Reptiles/Reptiles.qmd    
@@ -16,6 +16,6 @@ listing:
   categories: false
   sort-ui: true
   filter-ui: true
-  page-size: 10     
-page-layout: full
+#  page-size: 10     
+#page-layout: full
 ---

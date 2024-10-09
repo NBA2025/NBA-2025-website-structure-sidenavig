@@ -17,10 +17,8 @@ website:
     title: "Contents"    
     collapse-level: 1
     tools: 
-     # - icon: github
-     #   href: https://github.com/
-      - icon: gitlab
-        href: https://gitlab.com/
+      - icon: github
+        href: https://github.com/NBA2025
       - icon: youtube
         href: https://www.youtube.com/watch?v=K0XvdAFjCGU
       - icon: save
@@ -31,8 +29,8 @@ website:
         href: "mailto:a.skowno@sanbi.org.za; c.poole@sanbi.org.za"
 
     contents:
-      - text: "Home"
-        href: Home.qmd
+      #- text: "Home"
+      #  href: Home.qmd
 
       - text: "Introduction" 
         href: Introduction.qmd
@@ -43,7 +41,7 @@ website:
           - text: "How is NBA used"
             href: Contents/0. About/2. How the NBA is used.qmd
             contents: 
-            - text: "Overview of how the NBA input datasets used"
+            - text: "NBA input datasets used"
               href: Contents/0. About/2.1 How NBA input datasets are used.qmd
             - text: "Direct links between NBA and MEA indicators"
               href: Contents/0. About/2.2 Direct links between NBA and MEA indicators.qmd 
@@ -60,8 +58,6 @@ website:
             href: Contents/1. Key messages/B - Biodiversity under pressure.qmd
           - text: "C - NBA stimulates work to address knowledge gaps"
             href: Contents/1. Key messages/C - NBA stimulates work to address knowledge gaps.qmd            
-          - text: "Recommendations and key actions"
-            href: Contents/1. Key messages/Recommendations and key actions.qmd
           - text: "---" 
       
       - section: "Integrated findings"
@@ -79,10 +75,10 @@ website:
           - section: "Pressures on South Africa's biodiversity"
             href: Contents/2. Integrated findings/Pressures/Pressures overview.qmd
             contents: 
-              - text: "Pressures on ecosytems"
-                href: Contents/2. Integrated findings/Pressures/Ecosystem pressures.qmd
+              - text: "Pressures on ecosystems"
+                href: Contents/2. Integrated findings/Pressures/Pressures on ecosystems.qmd
               - text: "Pressures on species"
-                href: Contents/2. Integrated findings/Pressures/Species pressures.qmd
+                href: Contents/2. Integrated findings/Pressures/Pressures on species.qmd
               - text: "Ecological condition"
                 href: Contents/2. Integrated findings/Pressures/Ecological condition.qmd
           - text: "---" 
@@ -213,7 +209,7 @@ website:
                 href: Contents/5. Priority actions and responses/Priority responses/Restore.qmd
               - text: "Resources for biodiversity conservation"
                 href: Contents/5. Priority actions and responses/Priority responses/Bio conservation.qmd  
-              - text: "The need for evidence on the effectiveness and impact of responses"
+              - text: "evidence on the effectiveness and impact of responses"
                 href: Contents/5. Priority actions and responses/Priority responses/Effectiveness impact.qmd    
             
             
