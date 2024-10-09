@@ -1,9 +1,0 @@
----
-title: "Species"
-date: last-modified
-date-format: "DD-MM-YYYY"
----
-
-------------------------------------------------------------------------
-
-# Marine Realm Species

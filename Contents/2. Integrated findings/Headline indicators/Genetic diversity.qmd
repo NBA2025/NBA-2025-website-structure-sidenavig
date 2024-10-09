@@ -1,7 +1,0 @@
----
-title: "Genetic diversity"
----
-----------------------
-# Genetic diversity at population level
-
-# Genetic diversity at landscape level
