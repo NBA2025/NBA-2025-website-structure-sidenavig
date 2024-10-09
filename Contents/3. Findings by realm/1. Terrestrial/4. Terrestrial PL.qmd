@@ -1,0 +1,31 @@
+---
+title: "Protection Level of Terrestrial Ecosystems"
+date: last-modified
+date-format: "DD-MM-YYYY"
+---
+
+------------------------------------------------------------------------
+
+# Protection level - terrestrial types
+
+## Protection level of South African biomes
+
+### Albany Thicket
+
+### Azonal Vegetation
+
+### Desert
+
+### Forests
+
+### Fynbos
+
+### Grassland
+
+### Indian Ocean Coastal Belt
+
+### Nama-Karoo
+
+### Savanna
+
+### Succulent Karoo

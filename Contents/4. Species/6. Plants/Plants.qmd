@@ -1,0 +1,14 @@
+---
+title: "Plants"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+image: "/images/Plants.JPG"  
+#categories: [code, analysis, results]
+---
+
+**Recommended citation:**
+
+------------------------------------------------------------------------
+
+# Taxonomic group summary - Plants

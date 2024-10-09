@@ -1,0 +1,98 @@
+---
+title: Critical insights
+format: 
+  html:
+    number-sections: true
+    number-depth: 6
+    page-navigation: true
+    embed-resources: true
+
+crossref:
+  fig-title: '**Figure**' #"Figure" text caption bold 
+  fig-labels: arabic
+  title-delim: "**.**"
+---
+
+------------------------------------------------------------------------
+
+# Introduction
+
+South Africa has exceptional biodiversity, characterised by a wide variety of ecosystem types, high species richness and high levels of endemism. South Africa's biodiversity provides an array of benefits1 to the economy, society and human wellbeing. These benefits that nature provides are dependent on intact ecosystems, healthy species populations and genetic diversity.
+
+The NBA is the primary tool for monitoring and reporting on the state of biodiversity in South Africa and informs policies, strategic objectives and activities for managing and conserving biodiversity more effectively. The NBA is especially important for informing the National Biodiversity Strategy and Action Plan (NBSAP), the National Biodiversity Framework (NBF) and the National Protected Area Expansion Strategy (NPAES), and also informs other national strategies and frameworks across a range of sectors, such as the National Spatial Development Framework, the National Water and Sanitation Master Plan and the National Biodiversity Economy Strategy.
+
+![The NBA has four headline indicators, providing information on the threat status and protection level of ecosystems and species. The threat status indicators use the established IUCN Red List of Species and Red List of Ecosystems assessment frameworks. The risk of extinction (species) or collapse (ecosystems) is evaluated across all realms and for taxonomic groups for which sufficient data exists. The protection level indicators reflect how well our species and ecosystem types are represented in the protected area network.](/images/Headline%20indicators.jpg){#fig-HeadlineIndicators fig-align="center"}
+
+<br>
+
+::: {layout-ncol="2"}
+::: right
+The key messages presented in this section distil some of the most important findings of the NBA 2018, each with the rationale for why the finding is important and a call to action. The key messages can inform sectorspecific strategies and action plans, cross-sectoral planning, research strategies, scenario planning and spatial prioritisation exercises that may be developed subsequently to the NBA. Many of these will be transdisciplinary and should be co-produced between all relevant stakeholders so that uptake and implementation is enhanced.
+
+The NBA 2018 key messages are grouped into three clusters: a) South Africa's biodiversity provides benefits to people; b) South Africa's biodiversity is under pressure, but solutions are at hand; and c) the NBA stimulates work to address knowledge gaps.
+:::
+
+::: left
+::: {.column width="100%"}
+![Each message is accompanied by a qualitative statement of the degree of confidence in the finding. The NBA 2018 used the model adopted by IPBES that plots findings on two axes: quality and quantity of evidence on the x-axis and level of agreement on the y-axis.](/images/Evidence%20quality.JPG){#fig-EvidenceQuality fig-align="center"}
+:::
+:::
+:::
+
+## South Africa's biodiversity provides benefits to people
+
+**Biodiversity provides jobs**
+
+South Africa's biodiversity provides substantial employment in a range of sectors (established but incomplete). Continued investment in managing and conserving biodiversity is essential so that jobs that depend on biodiversity can continue to increase. Jobs directly related to biodiversity total more than 418 000, and this is likely an underestimate. This level of employment is comparable to that of the mining sector. For every job dedicated to conserving biodiversity (e.g. in protected areas or conservation authorities), there are at least five other jobs that depend directly on biodiversity use. These jobs are in sectors such as fisheries, wildlife ranching, biodiversity-based tourism, traditional medicine and indigenous tea production.
+
+::: {.callout-important appearance="simple" collapse="false"}
+### Important
+
+For more information, see Part 3 and the NBA 2018 technical reports.
+:::
+
+![Biodiversity provides a substantial number of labour-intensive jobs. Managing and conserving biodiversity is essential so that job numbers can continue to grow.](/images/Biodiversity%20jobs.JPG){#fig-BiodiversityJobs fig-align="center" width="600"}
+
+## Healthy ecosystems are essential for water security
+
+::: {layout-ncol="2"}
+::: right
+Rivers, wetlands and their catchment areas are crucial ecological infrastructure for water security, often complementing built infrastructure, but the benefits from some of these ecosystems are currently compromised by their poor ecological condition (well established). Water security can be improved through integrated management of natural resources in Strategic Water Source Areas as well as other key catchments, including protection and restoration in some cases.
+
+Water security is essential for human wellbeing and socio-economic development. Aquatic ecosystems provide the quantity and quality of water that people require to live and prosper, and also play a crucial role in buffering us through drought periods and longterm climate variation. Over-abstraction of water, for example for irrigation, urban and industrial use, as well as pollution of water, place these services at risk.
+
+Strategic Water Source Areas (SWSAs) are areas in the landscape that supply a disproportionate quantity of water in relation to their size and/or have high groundwater recharge. These nationally important areas provide freshwater for downstream urban ensure that the diversity, functionality and connectivity of this ecological infrastructure are managed and maintained. Protection and rehabilitation (particularly the management of invasive plants) should be prioritised in the SWSAs.
+:::
+
+::: left
+::: {.column width="100%"}
+![The Drakensberg mountain range includes several Strategic Water Source Areas, where high-altitude grasslands play a critical role in supplying water to the dams downstream. (Injisuthi River with Monks Cowl in background). © Simon van Noort.](/images/Healthy%20ecosystems.JPG){#fig-HealthyEcosystems fig-align="center"}
+:::
+:::
+:::
+
+::: {.callout-note appearance="simple"}
+### Note
+
+For more information, see Part 3.2 and NBA 2025 technical report for the inland aquatic realm.
+:::
+
+## Water flowing into the sea provides multiple benefits to people
+
+Freshwater flowing from rivers through estuaries into the sea is not wasted and is essential for coastal and marine food production, livelihoods, tourism, and future climate change resilience (established but incomplete). Through appropriate management, South Africa can maintain the vital freshwater flows that reach the coast. Freshwater flowing from rivers is essential for maintaining the many benefits that people receive from coastal and marine biodiversity. Estuaries truly demonstrate this interconnectivity between land and sea; however, over 30% of them are impacted by freshwater flow reduction, especially the large permanently open estuaries (e.g. Orange and Groot Berg). Even in the remote Prince Edward Islands, the importance of freshwater flow into the sea is demonstrated by recent evidence that decreased rainfall and associated reduced runoff is contributing to changes in productivity in marine ecosystems.
+
+::: {layout-ncol="2"}
+::: left
+::: {.column width="100%"}
+![This water flowing from the Hartebeestpoort Dam in the North West Province is green owing to eutrophication - a dense growth of algae caused by excessive nutrients in the water from pollution. © Eric Nathan / Alamy Stock Photo.](/images/Poor%20ecological%20condition.JPG){#fig-PoorEcosystems fig-align="left"}
+:::
+:::
+
+::: right
+Healthy functioning rivers deliver freshwater, nutrients and sediments to estuaries and the ocean, and sand to beaches and dunes. A reduction in freshwater flow from land to sea thus compromises coastal water quality, estuarine connectivity, fish nursery functions (with knock-on effects for marine fisheries) and movement of sand and other sediments. Without sufficient flow, water quality declines, salinity regimes are compromised and sediment accumulates in estuary mouths -- often increasing the risk of coastal flooding. Species that move between marine and inland freshwater environments during their life cycle (e.g. eels, Anguilla spp.) are especially at risk when estuarine connectivity and functioning are altered, as are many commercially important fish (such as Dusky Kob \[*Argyrosomus japonicas*\]) that use estuaries as nurseries.
+
+Fisheries associated with muddy ecosystem types (e.g. prawns, sole and several other fish species) are supported by mud delivery and the maintenance ofland--sea connections required for the completion of their life cycles. Freshwater flow and associated sediment inputs maintain key tourism assets such as sandy beaches and reduce the risks of long-term erosion of beaches and dunes -- thereby decreasing coastal vulnerability to natural hazards like sea storms currently and in future with increasing climate change impacts.
+:::
+:::
+
+Further freshwater flow reductions through water abstraction, for example for irrigation and urban use, should be carefully considered and avoided wherever possible, opting instead for more efficient use of already available water resources. The issue should be addressed as part of the Department of Water and Sanitation's multi-stakeholder water classification process and should be included in national water resource strategies and plans and in catchment management strategies. In addition, coastal and estuary management plans need to capture the details of freshwater allocation, fish resource use, water quality management and land-use planning activities that impact on coastal and marine productivity.

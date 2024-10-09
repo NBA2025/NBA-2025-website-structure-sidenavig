@@ -1,0 +1,39 @@
+---
+title: About the National Biodiversity Assessment
+about:
+  template: marquee
+  image: images/NBA.png
+  image-width: 897px
+ 
+format:
+  html:
+    margin-top: -8em
+---
+
+------------------------------------------
+
+# Why do we do the NBA
+Mandate etc
+
+# How do we do the NBA
+Who, number of people
+
+# When is the NBA updated
+Modules are updated at different times
+
+# How to cite the NBA
+
+:::{.text-col width="100%"}
+
+**Recommended citation**
+
+**For scientific publications:**  
+Insert citation format for scientific publications here
+
+**For non-scientific publications:**  
+Insert citation format for non-scientific publications here
+:::
+
+# Acknowledgements
+
+Insert acknowledgements text here

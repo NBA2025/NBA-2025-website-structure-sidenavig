@@ -1,0 +1,17 @@
+---
+title: "Ecological condition"
+date: last-modified
+date-format: "DD-MM-YYYY"
+---
+
+------------------------------------------------------------------------
+
+# Condition
+
+Condition
+
+# Pressures
+
+Estuary pressure information and condition dataset
+
+Estuarine Invasive Alien Aquatic Plants

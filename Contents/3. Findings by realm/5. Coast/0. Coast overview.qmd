@@ -1,0 +1,14 @@
+---
+title: "Coast cross-cutting realm"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+image: "/images/Coast.JPG"  
+#categories: [code, analysis,results]
+---
+
+**Recommended citation:** Harris, L.R., Sink, K.J., Skowno, A.L. & Van Niekerk, L. (eds). 2026. *South African National Biodiversity Assessment 2025: Coast chapter*. South African National Biodiversity Institute, Pretoria.
+
+------------------------------------------------------------------------
+
+# Synthesis: Coast

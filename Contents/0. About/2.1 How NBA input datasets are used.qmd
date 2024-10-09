@@ -1,0 +1,39 @@
+---
+title: "How the NBA input datasets are used"
+crossref:
+  fig-title: '**Figure**' 
+  fig-labels: arabic
+  title-delim: "**.**"
+---
+
+------------------------------------------------------------------------
+
+# Overview of how NBA input datasets are used
+
+add text
+
+## Detailing how NBA realm specific input datasets are used?
+
+### Terrestrial realm
+
+add text
+
+### Freshwater (Inland aquatic) realm
+
+add text
+
+### Estuarine realm
+
+add text
+
+### Marine realm
+
+add text
+
+### Coast cross-cutting realm
+
+add text
+
+## How the NBA findings and key messages can be used
+
+add text

@@ -1,0 +1,14 @@
+---
+title: "Estuarine realm"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+image: "/images/Estuarine.JPG"  
+#categories: [code, analysis,results]
+---
+
+**Recommended citation:** Van Niekerk, L., Adams, J.B., Lamberth, S.J., MacKay, F., Taljaard, S., Turpie, J.K., Weerts S. & Raimondo, D.C., 2026 (eds). *South African National Biodiversity Assessment 2025: Estuarine Realm Chapter*. South African National Biodiversity Institute, Pretoria.
+
+------------------------------------------------------------------------
+
+# Overview

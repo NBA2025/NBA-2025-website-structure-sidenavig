@@ -1,0 +1,21 @@
+---
+title: "Translation of pressures into meaures of ecological condition"
+---
+
+--------------------------------------------
+
+# Ecological condition across realms synthesis
+
+Ecological condition is estimated using a range of different approaches across the realms, but essentially depends on the ability to spatially represent the various pressures exerted on biodiversity. Ecological condition in the terrestrial realm relies primarily on land cover change data; cumulative pressure mapping is used in the marine realm; and a multi-criteria ecological condition framework is used in the estuarine and inland aquatic realms. The different systems were aligned as far as possible in the NBA to allow for cross realm comparisons and unified terminology (Table 2).
+
+The marine and terrestrial realms are similar in terms of their relatively high percentage of natural/near-natural ecosystem extent (± 80%). In these extensive realms (Box 1), ecosystem modification tends to be focussed in pressure hotspots, usually linked to regional characteristics such as high productivity, accessibility and valuable natural resources (Figure 26); while large areas remain relatively unmodified or intact. For example, the Cape lowlands have extensive winter field crops while the mountainous areas of the Cape see far less intensive agriculture; all bay ecosystem types, the shelf edge and the KwaZulu-Natal Bight are subject to multiple pressures while many deep sea ecosystems
+
+## Terrestrial realm
+
+## Freshwater (inland aquatic) realm
+
+## Estuarine realm
+
+## Marine realm
+
+## Coast cross-realm

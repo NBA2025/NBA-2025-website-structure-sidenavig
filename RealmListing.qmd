@@ -1,0 +1,21 @@
+---
+title: "Findings by realm"
+listing:
+  id: Realm-grid
+  contents:
+    - Contents/3. Findings by realm/1. Terrestrial/0. Terrestrial overview.qmd
+    - Contents/3. Findings by realm/2. Freshwater/0. Freshwater overview.qmd
+    - Contents/3. Findings by realm/3. Estuarine/0. Estuarine overview.qmd 
+    - Contents/3. Findings by realm/4. Marine/0. Marine overview.qmd    
+    - Contents/3. Findings by realm/5. Coast/0. Coast overview.qmd          
+
+
+  type: grid
+  fields: [image, author, date, title, subtitle]
+  sort: "title asc"
+  sort-ui: true
+  categories: false
+  filter-ui: true
+  page-size: 10     
+page-layout: full
+---

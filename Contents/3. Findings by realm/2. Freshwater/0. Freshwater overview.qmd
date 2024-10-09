@@ -1,0 +1,14 @@
+---
+title: "Freshwater (inland aqauatic) realm"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+image: "/images/Poor ecological condition.JPG"  
+#categories: [code, analysis,results]
+---
+
+**Recommended citation:** Van Deventer, H., Smith-Adao, L., Collins, N.B., Grenfell, M., Grundling, A., Grundling, P-L., Impson, D., Job, N., Lötter, M., Ollis, D., Petersen, C., Scherman, P., Sieben, E., Snaddon, K., Tererai, F. & Van der Colff, D. 2026. *South African National Biodiversity Assessment 2025: Inland Aquatic (Freshwater) Realm Chapter*. South African National Biodiversity Institute, Pretoria.
+
+------------------------------------------------------------------------
+
+Synthesis of freshwater info (eco, spp, pressures)

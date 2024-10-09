@@ -1,0 +1,15 @@
+---
+title: "How the NBA is used"
+crossref:
+  fig-title: '**Figure**' 
+  fig-labels: arabic
+  title-delim: "**.**"
+---
+
+------------------------------------------------------------------------
+
+# Introduction {.unnumbered}
+
+The NBA is the primary tool for monitoring and reporting on the state of biodiversity in South Africa. It is prepared as part of the South African National Biodiversity Institute's (SANBI) mandate to monitor and report regularly on the status of South Africa's biodiversity, and is a collaborative effort from many institutions and individuals. The NBA focusses primarily on assessing biodiversity at the ecosystem and species level, with efforts being made to include genetic level assessments. Two headline indicators that are applied to both ecosystems and species are used in the NBA: threat status and protection level. The products of the NBA include seven technical reports, a technical synthesis report and several popular outputs.
+
+The primary purpose of the NBA is to provide a highlevel summary of the state of South Africa's biodiversity at regular points in time, with a strong focus on spatial information. Each NBA builds on decades of research and innovation by South African scientists, and makes that science available in a useful form to users both inside and outside of the biodiversity sector. As a body of work the NBA is not prescriptive; it presents important information that can be adopted by government and civil society in various decision making processes to support socio-economic imperatives, human wellbeing, and the best management and conservation of South Africa's biodiversity.

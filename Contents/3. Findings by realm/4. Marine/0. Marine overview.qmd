@@ -1,0 +1,14 @@
+---
+title: "Marine realm"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+image: "/images/Marine.JPG"  
+#categories: [code, analysis,results]
+---
+
+**Recommended citation:** Sink, K.J., Van der Bank, M.G., Majiedt, P.A., Harris, L., Atkinson, L., Kirkman, S. & Karenyi, N. (eds). 2026. *South African National Biodiversity Assessment 2025: Marine Realm Chapter*. South African National Biodiversity Institute, Pretoria. South Africa.
+
+------------------------------------------------------------------------
+
+# Synthesis of marine info (eco, spp, pressures)
