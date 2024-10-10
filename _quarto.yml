@@ -15,7 +15,7 @@ website:
     style: "docked"
     search: true
     title: "Contents"    
-    collapse-level: 1
+    #collapse-level: 1
     tools: 
       - icon: github
         href: https://github.com/NBA2025
