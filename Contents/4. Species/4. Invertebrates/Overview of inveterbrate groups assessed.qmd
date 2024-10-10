@@ -1,10 +1,5 @@
 ---
 title: "Invertebrates"
-subtitle: "Findings emerging from the NBA "
-date: last-modified
-date-format: "DD-MM-YYYY"
-image: "/images/Invertebrates.JPG"  
-# categories: [code, analysis,results]
 ---
 
 **Recommended citation:**

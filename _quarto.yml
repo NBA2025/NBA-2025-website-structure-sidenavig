@@ -29,11 +29,11 @@ website:
         href: "mailto:a.skowno@sanbi.org.za; c.poole@sanbi.org.za"
 
     contents:
-      - text: "NBA resources" 
+      - text: "**Home**" 
         href: NBA resources.qmd
 
-      - section: "About the NBA"
-        href: index.qmd
+      - section: "**About the NBA**"
+        href: Contents/0. About/1. About the NBA.qmd
         contents:
           - text: "How is NBA used"
             href: Contents/0. About/2. How the NBA is used.qmd
@@ -47,7 +47,7 @@ website:
             href: Contents/0. About/3. Biodiversity profile.qmd 
           - text: "---" 
       
-      - section: "Key messages"        
+      - section: "**Key messages**"        
         contents: 
           - text: "A - Biodiversity provides benefits to people"
             href: Contents/1. Key messages/A - Biodiversity provides benefits to people.qmd
@@ -57,7 +57,7 @@ website:
             href: Contents/1. Key messages/C - NBA stimulates work to address knowledge gaps.qmd            
           - text: "---" 
       
-      - section: "Integrated findings"
+      - section: "**Integrated findings**"
         contents:
           - section: "National headline indicators"
             href: Contents/2. Integrated findings/Headline indicators/Indicators overview.qmd
@@ -80,10 +80,10 @@ website:
                 href: Contents/2. Integrated findings/Pressures/Ecological condition.qmd
           - text: "---" 
       
-      - section: "Findings by realm"
-        href: RealmListing.qmd
+      - section: "**Findings by realm**"
         contents: 
           - section: "Terrestrial realm"
+            href: Contents/3. Findings by realm/1. Terrestrial/0. Terrestrial overview.qmd      
             contents: 
             - text: "Ecosystems "
               href: Contents/3. Findings by realm/1. Terrestrial/1. Terrestrial ecosystems.qmd
@@ -98,6 +98,7 @@ website:
               
               
           - section: "Freshwater (inland aquatic) realm"
+            href: Contents/3. Findings by realm/2. Freshwater/0. Freshwater overview.qmd
             contents: 
             - text: "Ecosystems "
               href: Contents/3. Findings by realm/2. Freshwater/1. Freshwater ecosystems.qmd
@@ -112,6 +113,7 @@ website:
               
               
           - section: "Estuarine realm"
+            href: Contents/3. Findings by realm/3. Estuarine/0. Estuarine overview.qmd
             contents: 
             - text: "Ecosystems "
               href: Contents/3. Findings by realm/3. Estuarine/1. Estuarine ecosystems.qmd
@@ -126,11 +128,12 @@ website:
     
               
           - section: "Marine realm"
+            href: Contents/3. Findings by realm/4. Marine/0. Marine  overview.qmd
             contents: 
             - text: "Ecosystems "
               href: Contents/3. Findings by realm/4. Marine/1. Marine  ecosystems.qmd
             - text: "Ecological condition"
-              href: Contents/3. Findings by realm/4. Marine/2. Mcological condition.qmd
+              href: Contents/3. Findings by realm/4. Marine/2. Marine ecological condition.qmd
             - text: "Red List of ecosystems"
               href: Contents/3. Findings by realm/4. Marine/3. Marine RLE.qmd
             - text: "Protection level"
@@ -139,6 +142,7 @@ website:
               href: Contents/3. Findings by realm/4. Marine/5. Marine species.qmd 
               
           - section: "Coast cross-cutting realm"
+            href: Contents/3. Findings by realm/5. Coast/0. Coast overview.qmd
             contents: 
             - text: "Ecosystems "
               href: Contents/3. Findings by realm/5. Coast/1. Coast ecosystems.qmd
@@ -152,8 +156,7 @@ website:
               href: Contents/3. Findings by realm/5. Coast/5. Coast species.qmd               
             - text: "---" 
       
-      - section: Species
-        href: SpeciesListing.qmd
+      - section: "**Species**"
         contents: 
           - text: "Amphibians"
             href: Contents/4. Species/1. Amphibians/Amphibians.qmd
@@ -187,16 +190,16 @@ website:
             href: Contents/4. Species/7. Reptiles/Reptiles.qmd                  
           - text: "---" 
       
-      - section: "Priority actions & responses"
+      - section: "**Priority actions & responses**"
         contents: 
           - section: "Priority actions for improving future NBAs"
             contents:
-              - text: "Knowledge Gaps and Research Priorities for Strengthening the NBA"
+              - text: "Knowledge gaps and research priorities for strengthening the NBA"
                 href: Contents/5. Priority actions and responses/Priority actions/Knowledge gaps.qmd
               - text: "Review of tools used to measure genetic diversity"
                 href: Contents/5. Priority actions and responses/Priority actions/Genetic diversity.qmd
             
-          - section: "South Africa's responses for managing and conserving biodiversity"
+          - section: "Responses for managing and conserving biodiversity"
             contents:
               - text: "Avoid further loss"
                 href: Contents/5. Priority actions and responses/Priority responses/Avoid loss.qmd

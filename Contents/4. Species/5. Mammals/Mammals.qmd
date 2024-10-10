@@ -1,10 +1,5 @@
 ---
 title: "Mammals"
-subtitle: "Findings emerging from the NBA "
-date: last-modified
-date-format: "DD-MM-YYYY"
-image: "/images/Mammals.JPG"  
-# categories: [code, analysis, results]
 ---
 
 **Recommended citation:**
